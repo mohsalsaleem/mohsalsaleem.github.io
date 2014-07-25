@@ -1,4 +1,4 @@
-speak-to-gf
+P2P
 ===========
 [![Analytics](https://ga-beacon.appspot.com/UA-49733896-1/speak-to-gf/readme)](https://github.com/igrigorik/ga-beacon)
 * Tried Skype, Hangout, etc.. but got frustrated because of slow internet connection...?
